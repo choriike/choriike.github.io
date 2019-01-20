@@ -38,6 +38,11 @@ a:hover{
 .c_main{
 	padding: 30px 20px;
 }
+@media print{
+	img {
+		display:none;
+	}
+}
 @media screen and (max-width:600px){
 	body{
 		font-size:4.375vw;
