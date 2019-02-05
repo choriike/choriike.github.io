@@ -23,7 +23,7 @@
     "title": "ACMコーポレートサイト",
     "url": "http://museum.anpanman-acm.co.jp/",
     "date": "2016/10/31",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "PC/SP",
     "lang" : [
       "HTML",
@@ -39,7 +39,7 @@
     "title": "ACMコーポレートサイト（各言語サイト（英語・中国語・韓国語））",
     "url": "http://museum.anpanman-acm.co.jp/en/",
     "date": "2016/11/21",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "PC/SP",
     "lang" : [
       "HTML",
@@ -197,7 +197,7 @@
     "title": "バズリズム LIVE 2017",
     "url": "http://www.ntv.co.jp/buzzrhythm/live2017/",
     "date": "2017/09/23",
-    "position": "コーディング、アニメーション実装",
+    "position": "コーディング、アニメーション実装、運用",
     "view": "PC/SP",
     "lang" : [
       "HTML",
@@ -279,7 +279,7 @@
     "title": "日本テレビ×ラグビー",
     "url": "https://www.ntv.co.jp/rugby/",
     "date": "2018/06/01",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "responsive",
     "lang" : [
       "HTML",
@@ -297,7 +297,7 @@
     "title": "日本テレビ×サッカー",
     "url": "https://www.ntv.co.jp/soccer/",
     "date": "2018/06/07",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "responsive",
     "lang" : [
       "HTML",
@@ -315,7 +315,7 @@
     "title": "24時間テレビ ドラマスペシャル「ヒーローを作った男～石ノ森章太郎物語～",
     "url": "https://www.ntv.co.jp/24h/drama2018/",
     "date": "2018/07/09",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "responsive",
     "lang" : [
       "HTML",
@@ -331,7 +331,7 @@
     "title": "FIFAクラブワールドカップ UAE 2018",
     "url": "http://www.ntv.co.jp/fcwc/",
     "date": "2018/11/27",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "PC/SP",
     "lang" : [
       "HTML",
@@ -347,7 +347,7 @@
     "title": "=VAP= カメラを止めるな！",
     "url": "http://www.vap.co.jp/kametome/",
     "date": "2018/10/25",
-    "position": "コーディング、アニメーション実装",
+    "position": "コーディング、アニメーション実装、運用",
     "view": "PC/SP",
     "lang" : [
       "HTML",
@@ -364,7 +364,7 @@
     "title": "獣になれない私たち",
     "url": "https://www.ntv.co.jp/kemonare/",
     "date": "2018/09/26",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "responsive",
     "lang" : [
       "HTML",
@@ -380,7 +380,7 @@
     "title": "『ひらがな男子』公式サイト",
     "url": "http://www.ntv.co.jp/ichara/hiradan/",
     "date": "2018/07/27",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "PC/SP",
     "lang" : [
       "HTML",
@@ -397,7 +397,7 @@
     "title": "サバイバル・ウェディング",
     "url": "https://www.ntv.co.jp/survival-wedding/",
     "date": "2018/07/03",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "responsive",
     "lang" : [
       "HTML",
@@ -413,7 +413,7 @@
     "title": "=VAP= NoisyCell",
     "url": "http://www.vap.co.jp/noisycell/",
     "date": "2018/06/12",
-    "position": "コーディング、アニメーション実装",
+    "position": "コーディング、アニメーション実装、運用",
     "view": "PC/SP",
     "lang" : [
       "HTML",
@@ -446,7 +446,7 @@
     "title": "『PRINCE OF LEGEND』公式サイト",
     "url": "http://prince-of-legend.jp/",
     "date": "2018/05/11",
-    "position": "コーディング",
+    "position": "コーディング、運用",
     "view": "responsive",
     "lang" : [
       "HTML",
@@ -462,7 +462,7 @@
     "title": "TVアニメ「３Ｄ彼女　リアルガール」公式サイト",
     "url": "http://www.3dkanojo-anime.com/",
     "date": "2018/02/17",
-    "position": "コーディング、アニメーション実装",
+    "position": "コーディング、アニメーション実装、運用",
     "view": "responsive",
     "lang" : [
       "HTML",
