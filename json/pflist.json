@@ -460,7 +460,7 @@
     "thumb01": "images/3dgirl/3dgirl_thumb_01.png",
     "thumb02": "images/3dgirl/3dgirl_thumb_02.png",
     "title": "TVアニメ「３Ｄ彼女　リアルガール」公式サイト",
-    "url": "http://www.3dkanojo-anime.com/",
+    "url": "http://vap.co.jp/3dkanojo-anime/",
     "date": "2018/02/17",
     "position": "コーディング、アニメーション実装、運用",
     "view": "responsive",
@@ -468,6 +468,60 @@
       "HTML",
       "CSS",
       "Sass",
+      "Javascript",
+      "jQuery"
+    ]
+  },
+  {
+    "p_id": "tipness",
+    "thumb01": "images/tipness/tipness_thumb_01.png",
+    "thumb02": "images/tipness/tipness_thumb_02.png",
+    "title": "TIPNESS",
+    "url": "https://tip.tipness.co.jp/",
+    "date": "2019/04/01",
+    "position": "コーディング、Vue.js組み込み、運用",
+    "view": "responsive",
+    "lang" : [
+      "HTML",
+      "CSS",
+      "Sass",
+      "Javascript（ES6）",
+      "jQuery",
+      "Vue.js",
+      "ejs"
+    ]
+  },
+  {
+    "p_id": "acm_yokohama",
+    "thumb01": "images/acm_yokohama/acm_yokohama_thumb_01.png",
+    "thumb02": "images/acm_yokohama/acm_yokohama_thumb_02.png",
+    "title": "横浜アンパンマンこどもミュージアム",
+    "url": "https://www.yokohama-anpanman.jp/",
+    "date": "2019/07/03",
+    "position": "コーディング、Vue.js組み込み、運用",
+    "view": "responsive",
+    "lang" : [
+      "HTML",
+      "CSS",
+      "Sass",
+      "Javascript（ES6）",
+      "jQuery",
+      "Vue.js",
+      "ejs"
+    ]
+  },
+  {
+    "p_id": "24h",
+    "thumb01": "images/24h/24h_thumb_01.png",
+    "thumb02": "images/24h/24h_thumb_02.png",
+    "title": "24時間テレビ",
+    "url": "https://www.ntv.co.jp/24h/",
+    "date": "2019/08/01",
+    "position": "コーディング、運用",
+    "view": "responsive",
+    "lang" : [
+      "HTML",
+      "CSS",
       "Javascript",
       "jQuery"
     ]
